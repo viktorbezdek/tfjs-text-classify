@@ -1,0 +1,14 @@
+{
+  "name": "tfjs-text-classify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Viktor Bezdek <viktor.bezdek@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.9.0",
+    "@tensorflow/tfjs-node": "^4.9.0",
+    "lodash": "^4.17.21",
+    "natural": "^6.5.0"
+  }
+}
